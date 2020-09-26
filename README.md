@@ -2,7 +2,7 @@
 React Single Page Application, which allows you to read, create, edit and delete users, which include information such as: first name, last name, email, username, role and information about if the user is active.
 
 ## Description
-ReactJS Single Page App with the following characteristic:
+ReactJS Single Page App with the following characteristics:
 1. CRUD: Create, read, update and delete users. 
 
 
