@@ -44,33 +44,6 @@
       "role": "contributor",
       "userState": "yes",
       "id": 5
-    },
-    {
-      "name": "eded",
-      "lastName": "edfff",
-      "email": "dedede@gmail.com",
-      "username": "dededed",
-      "role": "administrator",
-      "userState": "yes",
-      "id": 6
-    },
-    {
-      "name": "dedede@gmail.com",
-      "lastName": "dedede@gmail.com",
-      "email": "dedede@gmail.com",
-      "username": "dedede@gmail.com",
-      "role": "administrator",
-      "userState": "yes",
-      "id": 7
-    },
-    {
-      "name": "dedede@gmail.com",
-      "lastName": "dedede@gmail.com",
-      "email": "dedede@gmail.com",
-      "username": "dedede@gmail.com",
-      "role": "administrator",
-      "userState": "yes",
-      "id": 8
     }
   ]
 }
