@@ -1,22 +1,22 @@
 {
   "users": [
     {
-      "id": 1,
       "name": "Jaime",
       "lastName": "Duque",
       "email": "jaimeduque17@hotmail.com",
       "username": "jaimeduque17",
       "role": "administrator",
-      "userState": "no"
+      "userState": "no",
+      "id": 1
     },
     {
-      "id": 2,
       "name": "Hector",
-      "lastName": "Tobón",
+      "lastName": "Tobon",
       "email": "H.F.Tobon@CGIAR.ORG",
       "username": "H.F.Tobon",
       "role": "member",
-      "userState": "yes"
+      "userState": "yes",
+      "id": 2
     },
     {
       "name": "Ana",
@@ -44,6 +44,33 @@
       "role": "contributor",
       "userState": "yes",
       "id": 5
+    },
+    {
+      "name": "eded",
+      "lastName": "edfff",
+      "email": "dedede@gmail.com",
+      "username": "dededed",
+      "role": "administrator",
+      "userState": "yes",
+      "id": 6
+    },
+    {
+      "name": "dedede@gmail.com",
+      "lastName": "dedede@gmail.com",
+      "email": "dedede@gmail.com",
+      "username": "dedede@gmail.com",
+      "role": "administrator",
+      "userState": "yes",
+      "id": 7
+    },
+    {
+      "name": "dedede@gmail.com",
+      "lastName": "dedede@gmail.com",
+      "email": "dedede@gmail.com",
+      "username": "dedede@gmail.com",
+      "role": "administrator",
+      "userState": "yes",
+      "id": 8
     }
   ]
 }
