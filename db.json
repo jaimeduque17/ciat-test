@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Jaime",
+      "lastName": "Duque",
+      "email": "jaimeduque17@hotmail.com",
+      "username": "jaimeduque17",
+      "role": "administrator",
+      "userState": "no"
+    },
+    {
+      "id": 2,
+      "name": "Hector",
+      "lastName": "Tobón",
+      "email": "H.F.Tobon@CGIAR.ORG",
+      "username": "H.F.Tobon",
+      "role": "member",
+      "userState": "yes"
+    },
+    {
+      "name": "Ana",
+      "lastName": "Pantoja",
+      "email": "A.M.Pantoja@cgiar.org",
+      "username": "A.M.Pantoja",
+      "role": "member",
+      "userState": "yes",
+      "id": 3
+    },
+    {
+      "name": "Margarita",
+      "lastName": "Ramirez",
+      "email": "Margarita.Ramirez@cgiar.org",
+      "username": "Margarita.Ramirez",
+      "role": "member",
+      "userState": "yes",
+      "id": 4
+    },
+    {
+      "name": "Tomas",
+      "lastName": "Solis",
+      "email": "T.Solis@cgiar.org",
+      "username": "T.Solis",
+      "role": "contributor",
+      "userState": "yes",
+      "id": 5
+    }
+  ]
+}
